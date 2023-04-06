@@ -1,0 +1,13 @@
+.spyproject
+.idea
+_pycache_
+__pycache__
+/valdata/
+/model_weights/
+/data/
+mypy.ini
+.DS_Store
+reformatting_the_data.py
+setup.py
+visualizing_dataset.py
+/artifacts/
